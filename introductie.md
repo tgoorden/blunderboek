@@ -1,0 +1,1 @@
+Het "Blunderboek Antwerpse Mobiliteit" is een overzicht van alle misgelopen ingrepen en gemiste kansen die zich de voorbije jaren presenteerden in de stad Antwerpen. De lijst is wellicht onvolledig, mail aanvullingen naar: blunders@blunderboek.be
