@@ -4,14 +4,14 @@
 Kort na het aantreden van het nieuwe bestuur presenteert de stad Antwerpen haar mobiliteitsplan. Het wordt bijzonder negatief onthaald. Het plan zelf is ondertussen niet meer terug te vinden. Vele pijnpunten zijn achteraf ook echte problemen geworden.
 
 
-* [http://deredactie.be/cm/vrtnieuws/regio/antwerpen/1.1952225](http://deredactie.be/cm/vrtnieuws/regio/antwerpen/1.1952225)
-* [https://www.duurzame-mobiliteit.be/pers/antwerpen-verloochent-het-stop-principe](https://www.duurzame-mobiliteit.be/pers/antwerpen-verloochent-het-stop-principe)
-* [http://www.gva.be/cnt/aid1571327/experts-kraken-antwerps-mobiliteitsplan](http://www.gva.be/cnt/aid1571327/experts-kraken-antwerps-mobiliteitsplan)
-* [http://www.gva.be/cnt/aid1571352/antwerpen-zet-rond-mobiliteit-stap-terug-naar-20ste-eeuw-2](http://www.gva.be/cnt/aid1571352/antwerpen-zet-rond-mobiliteit-stap-terug-naar-20ste-eeuw-2)
-* [http://www.gva.be/cnt/aid1571060/nieuw-mobiliteitsplan-vlotter-verkeer-in-stad](http://www.gva.be/cnt/aid1571060/nieuw-mobiliteitsplan-vlotter-verkeer-in-stad)
-* [https://www.knack.be/nieuws/belgie/antwerpenaren-plannen-actie-tegen-mobiliteitsplan-stadsbestuur/article-normal-140725.html](https://www.knack.be/nieuws/belgie/antwerpenaren-plannen-actie-tegen-mobiliteitsplan-stadsbestuur/article-normal-140725.html)
-* [https://www.hln.be/nieuws/binnenland/cd-v-en-n-va-in-de-clinch-over-antwerps-mobiliteitsplan~a96d3d38/](https://www.hln.be/nieuws/binnenland/cd-v-en-n-va-in-de-clinch-over-antwerps-mobiliteitsplan~a96d3d38/)
-* [https://www.hln.be/nieuws/binnenland/stad-antwerpen-wil-voorrangspositie-zwakke-weggebruikers-schrappen~a77924b4/](https://www.hln.be/nieuws/binnenland/stad-antwerpen-wil-voorrangspositie-zwakke-weggebruikers-schrappen~a77924b4/)
+* [De Redactie: Mobiliteitsplan van N-VA in Antwerpen is onbegrijpelijk](http://deredactie.be/cm/vrtnieuws/regio/antwerpen/1.1952225)
+* [Netwerk Duurzame Mobiliteit: Antwerpen verloochent het STOP-principe](https://www.duurzame-mobiliteit.be/pers/antwerpen-verloochent-het-stop-principe)
+* [GvA: Experts kraken Antwerps mobiliteitsplan](http://www.gva.be/cnt/aid1571327/experts-kraken-antwerps-mobiliteitsplan)
+* [GvA: Antwerpen zet rond mobiliteit stap terug naar 20ste eeuw](http://www.gva.be/cnt/aid1571352/antwerpen-zet-rond-mobiliteit-stap-terug-naar-20ste-eeuw-2)
+* [GvA: Nieuw mobiliteitsplan vlotter verkeer in stad](http://www.gva.be/cnt/aid1571060/nieuw-mobiliteitsplan-vlotter-verkeer-in-stad)
+* [Knack: Antwerpenaren plannen actie tegen mobiliteitsplan stadsbestuur](https://www.knack.be/nieuws/belgie/antwerpenaren-plannen-actie-tegen-mobiliteitsplan-stadsbestuur/article-normal-140725.html)
+* [HLN: CD&V en N-VA in de clinch over Antwerps mobiliteitsplan](https://www.hln.be/nieuws/binnenland/cd-v-en-n-va-in-de-clinch-over-antwerps-mobiliteitsplan~a96d3d38/)
+* [HLN: Stad Antwerpen wil voorrangspositie zwakke weggebruikers schrappen](https://www.hln.be/nieuws/binnenland/stad-antwerpen-wil-voorrangspositie-zwakke-weggebruikers-schrappen~a77924b4/)
 
 ## Geschrapte heraanleg Generaal Lemanstraat
 In januari 2013 wordt de geplande heraanleg van de Generaal Lemanstraat gewoon geschrapt. Deze heraanleg was in maart 2012 aangekondigd en omvatte onder andere verbeterde (verbrede) voetpaden en de toevoeging van twee verhoogde fietspaden van 1,75m. De door de Vlaamse overheid hiervoor voorziene 815.000 € worden eenvoudigweg afgewezen.
@@ -20,8 +20,8 @@ In januari 2013 wordt de geplande heraanleg van de Generaal Lemanstraat gewoon g
 In september 2015 voeren de lokale bewoners nog actie tegen deze beslissing.
 
 
-* [http://www.gva.be/cnt/aid1320022/heraanleg-generaal-lemanstraat-geschrapt](http://www.gva.be/cnt/aid1320022/heraanleg-generaal-lemanstraat-geschrapt)
-* [https://atv.be/nieuws/actie-tegen-geschrapt-fietspad-in-generaal-lemanstraat](https://atv.be/nieuws/actie-tegen-geschrapt-fietspad-in-generaal-lemanstraat)
+* [GvA: Heraanleg Generaal Lemanstraat geschrapt](http://www.gva.be/cnt/aid1320022/heraanleg-generaal-lemanstraat-geschrapt)
+* [ATV: Actie tegen geschrapt fietspad in Generaal Lemanstraat](https://atv.be/nieuws/actie-tegen-geschrapt-fietspad-in-generaal-lemanstraat)
 
 ## Overheveling bevoegdheid aanvullende verkeersreglementen
 
@@ -34,7 +34,7 @@ Daarmee wordt een belangrijk deel van de besluitvorming rond (veilig) verkeer on
 De gevolgen van dit soort beslissingen worden hierdoor 100% de verantwoordelijkheid van het schepencollege.
 
 
-* [http://redactie.radiocentraal.org/2013/130202\_AanvullendeVerkeersreglementen.pdf](http://redactie.radiocentraal.org/2013/130202_AanvullendeVerkeersreglementen.pdf)
+* [Radio Centraal: Aanvullende Verkeersreglementen](http://redactie.radiocentraal.org/2013/130202_AanvullendeVerkeersreglementen.pdf)
 
 ## STOP-principe wordt afgevoerd
 Het STOP-principe wordt gebruikt bij slimme inplanning van mobiliteitsbeleid, waarbij de prioriteit eerst naar Stappen, dan Trappen (fiets), vervolgens Openbaar vervoer en dan pas naar Personenwagens gaat. Het is een Europese leidraad; in het Vlaamse mobiliteitsbeleid is het een principe. 
@@ -42,8 +42,8 @@ Het STOP-principe wordt gebruikt bij slimme inplanning van mobiliteitsbeleid, wa
 
 Het huidige stadsbestuur schuift dit principe in april 2014 aan de kant. Nochtans stipuleert het Vlaamse mobiliteitsdecreet dat de gemeenten ‘bij het voorbereiden, het vaststellen, het uitvoeren, het volgen en het evalueren van het mobiliteitsbeleid’ rekening moeten houden met het STOP-principe.
 
-* [https://nl.wikipedia.org/wiki/STOP-principe](https://nl.wikipedia.org/wiki/STOP-principe)
-* [https://www.duurzame-mobiliteit.be/pers/antwerpen-verloochent-het-stop-principe](https://www.duurzame-mobiliteit.be/pers/antwerpen-verloochent-het-stop-principe)
+* [Wikipedia: STOP-principe](https://nl.wikipedia.org/wiki/STOP-principe)
+* [Netwerk Duurzame Mobiliteit: Antwerpen verloochent het STOP-principe](https://www.duurzame-mobiliteit.be/pers/antwerpen-verloochent-het-stop-principe)
 
 ## Aanpassing in bouwcode m.b.t. verplichte parkeerplaatsen
 Ook in april 2014 wordt de bouwcode aangepast met het zogenaamde “POET” principe (“Parkeren Op Eigen Terrein”). Hiermee dwingt de stad bouwpromotoren om op grote schaal parkeerplaatsen te incorporeren in hun bouwprojecten. In 2017 wordt deze norm nog eens aangescherpt, met onder andere een vermindering van de minimum gevelbreedte waarvoor een parkeerplaats verplicht is.
@@ -55,8 +55,8 @@ De maatregel gaat regelrecht in tegen het principe van de “modal shift”, waa
 De maatregel krijgt onder andere van de gemeentelijke commissie ruimtelijke ordening (gecoro) herhaaldelijk een zeer negatief advies. Dit ontegensprekelijk negatieve advies wordt in het tweede Gemeenteraadsbesluit bovendien omgetoverd tot “gunstig met voorwaarden”. Intussen loopt een klacht tegen deze gang van zaken.
 
 
-* [https://www.apache.be/2017/10/05/antwerps-college-tovert-negatief-advies-over-parkeerbeleid-om-tot-positief/](https://www.apache.be/2017/10/05/antwerps-college-tovert-negatief-advies-over-parkeerbeleid-om-tot-positief/)
-* [https://assets.antwerpen.be/srv/assets/api/download/d98aaa27-1633-4124-bcc0-be52179d5708/20170614\_advies\_GECORO\_Bouwcode\_herziening\_def.pdf ](https://assets.antwerpen.be/srv/assets/api/download/d98aaa27-1633-4124-bcc0-be52179d5708/20170614_advies_GECORO_Bouwcode_herziening_def.pdf )
+* [Apache: Antwerps college tovert negatief advies over parkeerbeleid om tot positief](https://www.apache.be/2017/10/05/antwerps-college-tovert-negatief-advies-over-parkeerbeleid-om-tot-positief/)
+* [Gecoro: advies rond de herziening van de ‘Bouwcode’](https://assets.antwerpen.be/srv/assets/api/download/d98aaa27-1633-4124-bcc0-be52179d5708/20170614_advies_GECORO_Bouwcode_herziening_def.pdf )
 
 ## Foutieve verkeerscampagne
 
@@ -65,8 +65,8 @@ In september 2015 pakt de stad uit met een verkeerscampagne die ogenschijnlijk g
 
 De Fietsersbond overhandigt vervolgens samen met Critical Mass Antwerpen en de Voetgangersbeweging vzw het “Manifesto van de actieve en sociale weggebruiker” aan de stad. Hierop komt geen antwoord. Op 22 september ziet het college echter in dat de campagne onhoudbaar is en wordt ze offline gehaald.
 
-* [https://www.demorgen.be/binnenland/antwerpen-haalt-cijfers-nieuwe-verkeerscampagne-offline-dit-was-fout-bc0c0437/](https://www.demorgen.be/binnenland/antwerpen-haalt-cijfers-nieuwe-verkeerscampagne-offline-dit-was-fout-bc0c0437/)
-* [https://groenantwerpen.be/sites/groenantwerpen.be/files/bijlagen/1\_0\_Analyse\_verkeersongevallen\_campagne.pdf](https://groenantwerpen.be/sites/groenantwerpen.be/files/bijlagen/1_0_Analyse_verkeersongevallen_campagne.pdf)
+* [De Morgen: Antwerpen haalt cijfers nieuwe verkeerscampagne offline](https://www.demorgen.be/binnenland/antwerpen-haalt-cijfers-nieuwe-verkeerscampagne-offline-dit-was-fout-bc0c0437/)
+* [Groen Antwerpen: Analyse verkeersongevallen](https://groenantwerpen.be/sites/groenantwerpen.be/files/bijlagen/1_0_Analyse_verkeersongevallen_campagne.pdf)
 
 Manifest:
 (zie bijlagen)
@@ -76,11 +76,11 @@ Manifest:
 Begin juni 2017 worden de Leien ter hoogte van de Rooseveltplaats “geknipt”. De ingreep blijkt bijzonder slecht voorbereid. Er moeten van de ene op de andere dag 3 op 10 wagens uit het verkeer verdwijnen om de verkeerschaos te kunnen dempen. Na de knip blijkt dat de verkeerslichtenregeling niet voldoende aangepast is. De website “Slim naar Antwerpen” werkt niet naar behoren. Bovendien kondigt De Lijn quasi gelijktijdig een vermindering van de dienstregeling aan (naar aanleiding van de vakantieperiode). Daaruit blijkt dat er geen doeltreffend overleg bestaat tussen de stad Antwerpen en de vervoersmaatschappij De Lijn, nochtans een cruciale partner bij een dergelijke actie. Ook het tijdelijke “fietspad” langs de Frankrijklei blijkt een haastig bij elkaar gegooid rommeltje, met verschillende gevaarlijke elementen.
 
 
-* [https://deredactie.be/cm/vrtnieuws/regio/antwerpen/1.2997387](https://deredactie.be/cm/vrtnieuws/regio/antwerpen/1.2997387)
-* [https://deredactie.be/cm/vrtnieuws/regio/antwerpen/1.2984299 ](https://deredactie.be/cm/vrtnieuws/regio/antwerpen/1.2984299 )
-* [http://www.gva.be/cnt/dmf20170614\_02925283/knip-leien-extra-maatregelen-op-linkeroever-om-doorstroming-te-verbeteren](http://www.gva.be/cnt/dmf20170614_02925283/knip-leien-extra-maatregelen-op-linkeroever-om-doorstroming-te-verbeteren)
-* [https://www.vrt.be/vrtnws/nl/2017/09/18/15-keer-niet-met-de-auto-naar-het-werk--goed-voor-25-euro-/ ](https://www.vrt.be/vrtnws/nl/2017/09/18/15-keer-niet-met-de-auto-naar-het-werk--goed-voor-25-euro-/ )
-* [http://www.ademloos.be/nieuws/fietspad-frankrijklei-getest-net-niet-gebuisd-510 ](http://www.ademloos.be/nieuws/fietspad-frankrijklei-getest-net-niet-gebuisd-510 )
+* [De Redactie: Verkeerschaos in Antwerpen: "3 op de 10 wagens moeten uit het verkeer"](https://deredactie.be/cm/vrtnieuws/regio/antwerpen/1.2997387)
+* [De Redactie: Mobiliteitsexpert: "Stel knip op Antwerpse leien met een maand uit"](https://deredactie.be/cm/vrtnieuws/regio/antwerpen/1.2984299)
+* [GvA: Knip Leien: extra maatregelen op Linkeroever om doorstroming te verbeteren](http://www.gva.be/cnt/dmf20170614_02925283/knip-leien-extra-maatregelen-op-linkeroever-om-doorstroming-te-verbeteren)
+* [VRT: 15 keer niet met de auto naar het werk? Goed voor 25 euro](https://www.vrt.be/vrtnws/nl/2017/09/18/15-keer-niet-met-de-auto-naar-het-werk--goed-voor-25-euro-/)
+* [Ademloos: Fietspad Frankrijklei getest: net niet gebuisd 5/10](http://www.ademloos.be/nieuws/fietspad-frankrijklei-getest-net-niet-gebuisd-510 )
 
 
 ## Onveilige Waaslandtunnel tijdens knip
@@ -108,12 +108,12 @@ Bij het instellen van verkeerslichten en het heraanleggen van verkeersinfrastruc
 Zwarte punten 2014-2015:
 
 * [Kaart van zwarte punten ](https://www.google.be/maps/@51.1942194,4.3822213,13z/data=!4m2!6m1!1szSGm1C0s-_as.kuDxGesqm8XY )
-* [https://www.hln.be/regio/antwerpen/opkuis-zwartste-punt-pas-klaar-in-2019~a158f1b5/ ](https://www.hln.be/regio/antwerpen/opkuis-zwartste-punt-pas-klaar-in-2019~a158f1b5/ )
-* [http://www.nieuwsblad.be/cnt/dmf20140911\_01263963 ](http://www.nieuwsblad.be/cnt/dmf20140911_01263963 )
+* [HLN: Opkuis zwartste punt pas klaar in 2019](https://www.hln.be/regio/antwerpen/opkuis-zwartste-punt-pas-klaar-in-2019~a158f1b5/ )
+* [Nieuwsblad: Geen goed jaar voor het Antwerpse verkeer](http://www.nieuwsblad.be/cnt/dmf20140911_01263963 )
 
 
-* [http://www.standaard.be/cnt/dmf20171017\_03138051 ](http://www.standaard.be/cnt/dmf20171017_03138051 )
-* [http://www.gva.be/cnt/dmf20151106\_01957628/supercomputer-voor-verkeerslichten-nog-niet-voor-morgen ](http://www.gva.be/cnt/dmf20151106_01957628/supercomputer-voor-verkeerslichten-nog-niet-voor-morgen )
+* [De Standaard: Groen licht, maar veilig oversteken zit er niet in](http://www.standaard.be/cnt/dmf20171017_03138051 )
+* [GvA: Supercomputer voor verkeerslichten nog niet voor morgen](http://www.gva.be/cnt/dmf20151106_01957628/supercomputer-voor-verkeerslichten-nog-niet-voor-morgen )
 
 ## Stagnerende (fiets)ongevalcijfers
 
@@ -126,8 +126,8 @@ In de stad Antwerpen zijn het voorbije jaar tot nu toe minstens 4 dodelijke slac
 * [Overheidsdienst statistiek](https://bestat.economie.fgov.be/)
 
 
-* [http://www.gva.be/cnt/dmf20171016\_03135381/meeste-fietsslachtoffers-in-provincie-antwerpen-bekijk-de-cijfers-van-uw-gemeente](http://www.gva.be/cnt/dmf20171016_03135381/meeste-fietsslachtoffers-in-provincie-antwerpen-bekijk-de-cijfers-van-uw-gemeente)
-* [https://www.politieantwerpen.be/sites/default/files/documenten/jaarboeken/Verkeersveiligheidsplan%20evaluatie%202016.pdf ](https://www.politieantwerpen.be/sites/default/files/documenten/jaarboeken/Verkeersveiligheidsplan%20evaluatie%202016.pdf )
+* [GvA: Meeste fietsslachtoffers in provincie Antwerpen: bekijk de cijfers van uw gemeente](http://www.gva.be/cnt/dmf20171016_03135381/meeste-fietsslachtoffers-in-provincie-antwerpen-bekijk-de-cijfers-van-uw-gemeente)
+* [Politie Antwerpen: Verkeersveiligheidsplan](https://www.politieantwerpen.be/sites/default/files/documenten/jaarboeken/Verkeersveiligheidsplan%20evaluatie%202016.pdf )
 
 ## Geknoei met Schelde-oeververbindingen
 
@@ -146,9 +146,9 @@ Het “proefproject” met een fietstransportband in diezelfde tunnel wordt begi
 Vanaf juli 2017 wordt een veerdienst ingezet en de waterbus richting Hemiksem. In de praktijk blijkt de communicatie vooral toeristen aan te trekken. Een positieve bijdrage aan het onderliggende mobiliteitsprobleem levert dit voorlopig niet.
 
 
-* [http://www.gva.be/cnt/dmf20160721\_02394192/fietsersliften-geven-de-geest-ook-lift-parkbrug-defect ](http://www.gva.be/cnt/dmf20160721_02394192/fietsersliften-geven-de-geest-ook-lift-parkbrug-defect )
-* [http://www.gva.be/cnt/dmf20160824\_02437242/fietsers-en-voetgangers-dupe-van-defecten-aan-liften-van-voetgangers-en-fietserstunnel ](http://www.gva.be/cnt/dmf20160824_02437242/fietsers-en-voetgangers-dupe-van-defecten-aan-liften-van-voetgangers-en-fietserstunnel )
-* [http://www.gva.be/cnt/dmf20170928\_03100596/fietstransportband-in-fietserstunnel-wordt-alweer-afgevoerd ](http://www.gva.be/cnt/dmf20170928_03100596/fietstransportband-in-fietserstunnel-wordt-alweer-afgevoerd )
+* [GvA: Fietsersliften geven de geest, ook lift Parkbrug defect](http://www.gva.be/cnt/dmf20160721_02394192/fietsersliften-geven-de-geest-ook-lift-parkbrug-defect )
+* [GvA: Fietsers en voetgangers dupe van defecten aan liften van voetgangers- én fietserstunnel](http://www.gva.be/cnt/dmf20160824_02437242/fietsers-en-voetgangers-dupe-van-defecten-aan-liften-van-voetgangers-en-fietserstunnel )
+* [GvA: Fietstransportband in fietserstunnel wordt alweer afgevoerd](http://www.gva.be/cnt/dmf20170928_03100596/fietstransportband-in-fietserstunnel-wordt-alweer-afgevoerd )
 
 ## Prestigieuze Parkbrug werkt niet naar behoren
 
@@ -157,8 +157,8 @@ Van in het begin zijn er problemen met het bereiken van de Parkbrug aan de westk
 
 Na heel wat kinderziekten en ferme kritiek volgt uiteindelijk toch de beslissing van het stadsbestuur om een spiraalvormige aanloop te bouwen. Hoewel er op de locatie voldoende plaats is om een mooie aanloop te bouwen vanop de plek waar fietsers naar boven kunnen fietsen, werd die initieel niet voorzien. “De Parkbrug was eigenlijk niet bedoeld als een specifieke fietsersbrug”, is de commentaar vanuit het beleid. De Parkbrug is gelegen naast de Plantin Hogeschool waar dagelijks honderden studenten colleges volgen.  
  
-* [http://www.gva.be/cnt/dmf20170226\_02751462/parkbrug-wordt-dan-toch-aangepast-met-helling](http://www.gva.be/cnt/dmf20170226_02751462/parkbrug-wordt-dan-toch-aangepast-met-helling)
-* [https://www.hln.be/regio/antwerpen/parkbrug-krijgt-dan-toch-fietshelling-aan-kant-van-het-eilandje~a54177cb/ ](https://www.hln.be/regio/antwerpen/parkbrug-krijgt-dan-toch-fietshelling-aan-kant-van-het-eilandje~a54177cb/ )
+* [GvA: Parkbrug wordt dan toch aangepast met helling](http://www.gva.be/cnt/dmf20170226_02751462/parkbrug-wordt-dan-toch-aangepast-met-helling)
+* [HLN: Parkbrug krijgt dan toch fietshelling aan kant van het Eilandje](https://www.hln.be/regio/antwerpen/parkbrug-krijgt-dan-toch-fietshelling-aan-kant-van-het-eilandje~a54177cb/ )
 
 ## Terugschroeven rol verkeerspolitie
 
@@ -166,7 +166,7 @@ De verkeerspolitie hoeft sinds kort geen advies meer te geven bij het uittekenen
 
 Bij een recent ongeval in Antwerpen, blijkt wat daarvan de gevolgen kunnen zijn. "Het is inderdaad onhandig geweest om bij de opmaak van het kruispunt geen rekening te houden met fietsers en voetgangers” is de reactie vanuit de stad.
 
-* [http://www.knack.be/nieuws/belgie/waar-wacht-antwerpen-nog-op-om-de-veiligheid-van-zijn-voetgangers-en-fietsers-te-garanderen/article-opinion-912043.html](http://www.knack.be/nieuws/belgie/waar-wacht-antwerpen-nog-op-om-de-veiligheid-van-zijn-voetgangers-en-fietsers-te-garanderen/article-opinion-912043.html)
+* [Knack: 'Waar wacht Antwerpen nog op om de veiligheid van zijn voetgangers en fietsers te garanderen?'](http://www.knack.be/nieuws/belgie/waar-wacht-antwerpen-nog-op-om-de-veiligheid-van-zijn-voetgangers-en-fietsers-te-garanderen/article-opinion-912043.html)
 
 ## Tekort aan fietsenstallingen
 
@@ -175,7 +175,7 @@ Ook dit is een oud probleem. Onder andere in 2014 wordt dit nogmaals aangekaart.
 
 Bovendien weet de stad Antwerpen op dit moment niet precies waar er zich momenteel fietsparkeerinfrastructuur bevindt (beugels en dergelijke).
 
-* [http://www.gva.be/cnt/aid1610293/tekort-aan-fietsparkeerplaatsen-in-stad](http://www.gva.be/cnt/aid1610293/tekort-aan-fietsparkeerplaatsen-in-stad)
+* [GvA: Tekort aan fietsparkeerplaatsen in de stad](http://www.gva.be/cnt/aid1610293/tekort-aan-fietsparkeerplaatsen-in-stad)
 
 ## Fietsdiefstallen
 
@@ -184,8 +184,8 @@ Fietsdiefstallen komen zeer vaak voor in de stad Antwerpen. Dit is een enorm pro
 
 Uit een bevraging blijkt dat bijna 20% van de fietsdiefstallen plaatsvindt in de “bewaakte” fietsstallingen aan Centraal Station en Berchem Station. Aan deze fietsdiefstallen wordt systematisch geen prioriteit gegeven in het beleid. Zelfs wanneer er ontegensprekelijk videomateriaal bestaat van de fietsdiefstal, kan men dit als slachtoffer niet bekomen. Ook het voorstel om met lokfietsen te werken, zoals in Mechelen en Willebroek, wordt regelmatig verworpen.
 
-* [http://www.gva.be/cnt/dmf20161213\_02623888/antwerpen-denkt-nog-niet-aan-zendertjes-in-fietsen ](http://www.gva.be/cnt/dmf20161213_02623888/antwerpen-denkt-nog-niet-aan-zendertjes-in-fietsen )
-* [http://antwerpenize.be/post/166115700417/pik-me-danny ](http://antwerpenize.be/post/166115700417/pik-me-danny )
+* [GvA: Antwerpen denkt nog niet aan zendertjes in fietsen](http://www.gva.be/cnt/dmf20161213_02623888/antwerpen-denkt-nog-niet-aan-zendertjes-in-fietsen )
+* [Antwerpenize: Pik me Danny ](http://antwerpenize.be/post/166115700417/pik-me-danny )
 
 ## Chaos rond bevoegdheid
 
@@ -196,14 +196,14 @@ Ook bij het aanleggen van fietspaden komt de problematiek van bevoegdheden regel
 Tram naar Ekeren: op de lange baan geschoven
 Een voor de hand liggende oplossing om de verkeersdrukte richting het noorden van Antwerpen te verlichten, is een verlenging van de tramlijnen tot in Ekeren. Dit was ook lange tijd het plan. Aanvankelijk zouden de werken in 2007 aanvangen en klaar moeten zijn tegen 2012. Deze dringende verkeerskundige ingreep wordt echter systematisch op politiek niveau tegengehouden, met enorme drukte en verkeersonveiligheid op onder andere de Noorderlaan tot gevolg.
 
-* [https://nl.wikipedia.org/wiki/Tramlijn\_Ekeren ](https://nl.wikipedia.org/wiki/Tramlijn_Ekeren )
+* [Wikipedia: Tramlijn Ekeren](https://nl.wikipedia.org/wiki/Tramlijn_Ekeren )
 
 ## Premetrostation Drink: laat op zich wachten/komt er niet
 
 Een oplossing om het verkeer door de Turnhoutsebaan te verlichten, ligt voor het grijpen. Het premetrostation Drink dat oorspronkelijk bedoeld was voor trams die nu bovengronds rijden, kan in gebruik genomen worden. Uit een bevraging bij de bewoners blijkt dat daarvoor een stevig draagvlak is. Toch laat het stadsbestuur deze kans liggen. 
  
-* [http://www.gva.be/cnt/dmf20170928\_03102095/79-procent-van-ondervraagden-wil-premetrostation-drink-open ](http://www.gva.be/cnt/dmf20170928_03102095/79-procent-van-ondervraagden-wil-premetrostation-drink-open )
-* [https://nl.wikipedia.org/wiki/Drink\_(premetrostation) ](https://nl.wikipedia.org/wiki/Drink_(premetrostation) )
+* [GvA: 79% van ondervraagden wil premetrostation Drink open](http://www.gva.be/cnt/dmf20170928_03102095/79-procent-van-ondervraagden-wil-premetrostation-drink-open )
+* [Wikipedia: premetrostation Drink](https://nl.wikipedia.org/wiki/Drink_(premetrostation) )
 
 ## Wetgeving niet gehandhaafd
 ### Zone 30
@@ -211,7 +211,7 @@ Een oplossing om het verkeer door de Turnhoutsebaan te verlichten, ligt voor het
 Enorme delen van de stad Antwerpen zijn omgevormd tot zone 30. Lagere snelheden hebben een enorm grote impact op de ernst van ongevallen. De voorbije jaren ondernam de stad Antwerpen echter geen enkele poging om de zone 30 regeling daadwerkelijk te handhaven. Een dergelijke regeling zonder verdere aanpassingen aan de omgeving is volgens mobiliteitsexperten bovendien slechts ‘windowdressing’, het verandert m.a.w. niet afdoende het gedrag van automobilisten.
 
 
-* [https://www.hln.be/nieuws/binnenland/bijna-heel-antwerpen-zone-30-tegen-2018~aee1601d/ ](https://www.hln.be/nieuws/binnenland/bijna-heel-antwerpen-zone-30-tegen-2018~aee1601d/ )
+* [HLN: Bijna heel Antwerpen zone 30 tegen 2018](https://www.hln.be/nieuws/binnenland/bijna-heel-antwerpen-zone-30-tegen-2018~aee1601d/ )
 
 ### Afstand auto-fiets (art. 40ter)
 
@@ -222,18 +222,18 @@ In de wegcode staat deze duidelijke passage:
 Het is een verkeersregel die zelden of nooit gehandhaafd wordt. Nochtans komen aanrijdingen tussen fietsers en te dicht naderende automobilisten vaak voor. Uit de ongevalcijfers van de verkeerspolitie blijkt het zelfs dubbel zo vaak voor te komen dan dodehoekongevallen. Het komt ook 26 keer vaker voor dan een ongeval veroorzaakt door een fietser op het voetpad, een inbreuk die wél gehandhaafd wordt. 
 
 
-* [https://wegcode.be/wetteksten/secties/kb/wegcode/213-art40ter ](https://wegcode.be/wetteksten/secties/kb/wegcode/213-art40ter )
+* [De Wegcode](https://wegcode.be/wetteksten/secties/kb/wegcode/213-art40ter )
 
 ## Rommelige infrastructuur
 
 Er is een waslijst aan rommelige infrastructuurmaatregelen. 
 
 * Het voorstel om fietsers te weren van de Turnhoutsebaan en hen een parallelweg aan te bieden. Er zijn dagelijks enorm veel mensen die de Turnhoutsebaan als vertrekplaats of bestemming hebben en de kwaliteit/bruikbaarheid van de aard van d “parallelweg” is algemeen erg discutabel. Er kwam dan ook stevig protest op.
-* Het kruispunt Brouwersvliet - Rijnkaai is net nieuw aangelegd, inclusief  een gevaarlijk voetgangers-tram conflict. (http://www.gva.be/cnt/dmf20171019_03140960/probleem-met-lichten-aan-brouwersvliet-opgelost-of-toch-niet)
+* Het kruispunt Brouwersvliet - Rijnkaai is net nieuw aangelegd, inclusief  een gevaarlijk voetgangers-tram conflict. [GvA: Probleem met lichten opgelost of niet?](http://www.gva.be/cnt/dmf20171019_03140960/probleem-met-lichten-aan-brouwersvliet-opgelost-of-toch-niet)
 * Bij de heraanleg van de Herentalsebaan was er het voorstel om er een shared space omgeving van te maken, aangenaam voor iedereen. Het district ondersteunt het voorstel; de stad fluit terug. Resultaat:  Het doorgaand autoverkeer in twee richtingen blijft behouden, de parkeerplaatsen blijven over de ganse lengte van de straat, de tramhaltes worden niet geschrankt, de kruispunten zijn niet conflictvrij.
 * Te smalle fietspaden bij de heraanleg van straten o.a. aan Kattendijkdok - Oostkaai en Charlottalei. De stad volgt hierbij vaak de absolute minimumnorm, terwijl het toegenomen aantal fietsers en de gewijzigde aard van de fietsers (bakfietsen, electrische fietsen) maakt dat deze norm eigenlijk al achterhaald is.
 * De Bisschoppenhoflaan wordt dan toch geen ‘zone 50’, maar blijft zone 70, ook weer ondanks heerhaaldelijke vraag naar een verbeterde veiligheidssituatie.
-[Artikel](https://www.hln.be/regio/deurne/geen-zone-50-voor-bisschoppenhoflaan~a304b74a)
+[HLN: Geen zone 50 voor Bisschoppenhoflaan](https://www.hln.be/regio/deurne/geen-zone-50-voor-bisschoppenhoflaan~a304b74a)
 
 # Conclusies
 
@@ -246,5 +246,5 @@ Enkele conclusies die je kunt trekken uit dit Blunderboek:
 
 Opinies:
 
-* [http://www.gva.be/cnt/dmf20171017\_03137723/het-is-eerst-het-belang-van-de-auto-en-dan-de-rest](http://www.gva.be/cnt/dmf20171017_03137723/het-is-eerst-het-belang-van-de-auto-en-dan-de-rest)
-* [http://www.standaard.be/cnt/dmf20170927\_03099891](http://www.standaard.be/cnt/dmf20170927_03099891)
+* [GvA: Het is eerst het belang van de auto en dan de rest](http://www.gva.be/cnt/dmf20171017_03137723/het-is-eerst-het-belang-van-de-auto-en-dan-de-rest)
+* [De Standaard: ‘Gebrek aan realiteitszin’](http://www.standaard.be/cnt/dmf20170927_03099891)
